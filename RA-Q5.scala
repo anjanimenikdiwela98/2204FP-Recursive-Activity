@@ -13,6 +13,6 @@ object q5 extends App {
       println("-----Question 5-----\n")
       println("Input a value:");
       var value = readInt();
-      sum(value-1);
+      sum(value);
                           
 }
